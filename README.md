@@ -14,7 +14,7 @@ Non-Bundled Plugins: Dart, com.azoft.json2dart, io.flutter, com.fly-mix.flr, com
 Emulator: Pixel 2 API 29
 
 
-<img src=https://github.com/zeryhendra/flutter_example_show_items/blob/master/lib/images/example.png" height="50%" width="50%" />
+<img src=https://github.com/zeryhendra/flutter_example_show_items/blob/master/lib/images/example.png" />
 
 ## Getting Started
 
