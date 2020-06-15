@@ -1,6 +1,7 @@
 # Example
 
 ...
+<img src="https://https://github.com/zeryhendra/flutter_example_show_items/tree/master/lib/images/example.png" height="50%" width="50%" />
 
 ## Getting Started
 
