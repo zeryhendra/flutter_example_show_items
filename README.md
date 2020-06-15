@@ -4,8 +4,6 @@ Android Studio 4.0
 Build #AI-193.6911.18.40.6514223, built on May 20, 2020
 Runtime version: 1.8.0_242-release-1644-b01 amd64
 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
-# ... example..
-
 Windows 10 10.0
 GC: ParNew, ConcurrentMarkSweep
 Memory: 1237M
